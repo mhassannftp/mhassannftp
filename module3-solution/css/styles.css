@@ -1,0 +1,20 @@
+.mainheading h1{
+    text-align: center;
+}
+.parhead{
+    background-color: grey;
+    color: black;
+    margin-top: 40px;
+}
+.parhead h3{
+    text-align: center;
+}
+.parhead p{
+    margin: 10px;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: "helvetica", sarif, san-serif;
+}
